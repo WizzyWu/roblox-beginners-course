@@ -16,6 +16,11 @@ Update 22.09.2023:
 
 Update 29.09.2023:
 ===================
+Lesson 2:
 - The content and lesson plan of lesson 2 has been redesigned for RU and EN languages
 - Reminder files in three languages were added (Thanks to Sergey Ostapenko)
 - Materials were translated into PL language
+
+Lesson 3:
+- The content and lesson plan in RU, EN
+- Scripts
