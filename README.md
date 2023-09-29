@@ -13,3 +13,9 @@ Update 12.09.2023:
 Update 22.09.2023:
 ===================
 - Added Lesson 2 (Contents, Plan, Project, Materials)
+
+Update 29.09.2023:
+===================
+- The content and lesson plan of lesson 2 has been redesigned for RU and EN languages
+- Reminder files in three languages were added (Thanks to Sergey Ostapenko)
+- Materials were translated into PL language
