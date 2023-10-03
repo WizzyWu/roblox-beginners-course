@@ -24,3 +24,10 @@ Lesson 2:
 Lesson 3:
 - The content and lesson plan in RU, EN
 - Scripts
+
+Update 03.10.2023:
+==================
+Lesson 3:
+- The content of lesson 3 has been updated, a section with :Connect and :Once has been added. The examples and project code have been changed.
+- Added additional materials in 3 languages
+- Added lesson plan and content in PL

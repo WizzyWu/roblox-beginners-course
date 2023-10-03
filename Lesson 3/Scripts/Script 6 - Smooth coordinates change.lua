@@ -17,4 +17,5 @@ function onTouch()
 	wait(0.3)
 end
 
-game.Workspace.Bt1.Touched:Connect(onTouch)
+-- game.Workspace.Bt1.Touched:Connect(onTouch)
+game.Workspace.Bt1.Touched:Once(onTouch)
