@@ -31,3 +31,8 @@ Lesson 3:
 - The content of lesson 3 has been updated, a section with :Connect and :Once has been added. The examples and project code have been changed.
 - Added additional materials in 3 languages
 - Added lesson plan and content in PL
+
+Update 06.10.2023:
+==================
+Lesson 4:
+- EN, RU, Scripts
