@@ -36,3 +36,9 @@ Update 06.10.2023:
 ==================
 Lesson 4:
 - EN, RU, Scripts
+
+Update 10.10.2023:
+==================
+Lesson 4:
+- PL
+- Print materials
