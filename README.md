@@ -50,3 +50,10 @@ Lesson 5:
 - EN
 - Project
 - Images (heightmap, colormap)
+
+Update 17.11.2023:
+==================
+Lesson 6:
+- RU
+- EN
+- Project
