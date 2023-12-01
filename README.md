@@ -57,3 +57,10 @@ Lesson 6:
 - RU
 - EN
 - Project
+
+Update 01.12.2023:
+==================
+Lesson 7:
+- RU
+- EN
+- Project
