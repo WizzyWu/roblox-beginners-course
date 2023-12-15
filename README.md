@@ -64,3 +64,19 @@ Lesson 7:
 - RU
 - EN
 - Project
+
+Update 08.12.2023:
+==================
+Lesson 8:
+- RU
+- EN
+- Project
+
+Update 15.12.2023:
+==================
+Lesson 9:
+- RU
+- EN
+- Project
+- Diagrams
+
