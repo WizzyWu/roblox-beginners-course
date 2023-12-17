@@ -80,3 +80,11 @@ Lesson 9:
 - Project
 - Diagrams
 
+Update 17.12.2023:
+==================
+Lesson 10:
+- RU
+- EN
+- Project
+- Scripts
+
