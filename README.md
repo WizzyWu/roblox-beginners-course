@@ -88,3 +88,8 @@ Lesson 10:
 - Project
 - Scripts
 
+Update 05.04.2024
+===================
+Lesson 2 (reworked) (RU,EN)
+Lesson 3 (reworked) (RU)
+
